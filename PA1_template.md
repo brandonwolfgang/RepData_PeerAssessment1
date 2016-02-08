@@ -1,11 +1,6 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: "Brandon Wolfgang"
-date: "February 7, 2016"
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
+Brandon Wolfgang  
+February 7, 2016  
 
 # Assignment
 This is the solution of the Coursera's "Reproducible Research", Week 1 Course Project 1.
